@@ -1,0 +1,7 @@
+C:\Users\dougl\source\repos\MonthlyFinances\MonthlyFinances\bin\Debug\MonthlyFinances.exe.config
+C:\Users\dougl\source\repos\MonthlyFinances\MonthlyFinances\bin\Debug\MonthlyFinances.exe
+C:\Users\dougl\source\repos\MonthlyFinances\MonthlyFinances\bin\Debug\MonthlyFinances.pdb
+C:\Users\dougl\source\repos\MonthlyFinances\MonthlyFinances\obj\Debug\MonthlyFinances.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\MonthlyFinances\MonthlyFinances\obj\Debug\MonthlyFinances.exe
+C:\Users\dougl\source\repos\MonthlyFinances\MonthlyFinances\obj\Debug\MonthlyFinances.pdb
+C:\Users\dougl\source\repos\MonthlyFinances\MonthlyFinances\obj\Debug\MonthlyFinances.csproj.AssemblyReference.cache
